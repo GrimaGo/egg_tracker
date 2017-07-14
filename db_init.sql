@@ -1,3 +1,5 @@
+.open eggs.db
+
 create table trainers(
 	t_id int primary key not null,
 	t_username char(32) not null 
